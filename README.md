@@ -7,7 +7,7 @@ In this project CNN was used
 
 ABOUT THE DATASET
 
-The dataset used for this project has been taken from Plant-Village- Dataset found at Kaggle
+The dataset used for this project has been taken from Plant-Village- Dataset Get and found on https://www.kaggle.com
 
 
 PROPERTIES OF IMAGES
